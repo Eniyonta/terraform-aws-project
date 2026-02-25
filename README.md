@@ -40,4 +40,7 @@ terraform apply
 # 4. Destroy all resources to avoid AWS charges
 terraform destroy
 
+### ✅ Note:
+All screenshots are referenced from the `screenshots` folder.  
+
 # Author: Sylvia – Infrastructure Creation using Terraform
